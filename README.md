@@ -12,3 +12,4 @@ Provide students with the required resourses(slides,PYQs,recorded Lectures) for 
 
 Deployment
 Training completion on a few essential FINANCE courses (FundaFIN , SAPM , DRM , BAVM) prior compre so that students can use it.
+
