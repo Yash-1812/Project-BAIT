@@ -48,7 +48,7 @@ Uses `sentence-transformers/all-MiniLM-L6-v2` (CPU-friendly) to embed:
 - PYQs  
 - Student queries  
 
-### 2️Toic Classification  
+### Topic Classification  
 Each PYQ is assigned to the closest topic using cosine similarity.
 
 ### RAG Pipeline  
